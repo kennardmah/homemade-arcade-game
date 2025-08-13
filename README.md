@@ -1,6 +1,6 @@
 # Homemade Arcade Game — Get-A-Grip
 
-<img src="assets/2D%20sketching.png" alt="Arcade Sketch" width="50%">
+<img src="assets/2D%20sketching.png" alt="Arcade Sketch">
 
 ## Overview
 **Get-A-Grip** is an interactive arcade claw machine inspired by the Japanese UFO-catcher popularized by SEGA.  
