@@ -1,6 +1,6 @@
 # Homemade Arcade Game — Get-A-Grip
 
-![Arcade Sketch](assets/2D%20sketching.png)
+<img src="assets/2D%20sketching.png" alt="Arcade Sketch" width="50%">
 
 ## Overview
 **Get-A-Grip** is an interactive arcade claw machine inspired by the Japanese UFO-catcher popularized by SEGA.  
@@ -68,22 +68,22 @@ Instead of traditional joystick or button controls, it uses an **ultrasonic sens
 ## Photos & Videos
 
 ### Concept & Early Prototyping
-![2D Sketch](assets/2D%20sketching.png)
-![Additional Render](assets/additional_cadrender.png)
+<img src="assets/2D%20sketching.png" alt="2D Sketch" width="50%">
+<img src="assets/additional_cadrender.png" alt="Additional Render" width="50%">
 
 ### Build Process
-![Combining Parts](assets/combining_parts.png)
-![Painting Stage 1](assets/painting1.png)
-![Painting Stage 2](assets/painting2.png)
-![Painting Stage 3](assets/painting3.png)
-![Side View](assets/sideview.png)
+<img src="assets/combining_parts.png" alt="Combining Parts" width="50%">
+<img src="assets/painting1.png" alt="Painting Stage 1" width="50%">
+<img src="assets/painting2.png" alt="Painting Stage 2" width="50%">
+<img src="assets/painting3.png" alt="Painting Stage 3" width="50%">
+<img src="assets/sideview.png" alt="Side View" width="50%">
 
 ### Electronics
-![Wiring Map](assets/wiring_map.png)
-![Wiring Parts](assets/wiring_parts.png)
+<img src="assets/wiring_map.png" alt="Wiring Map" width="50%">
+<img src="assets/wiring_parts.png" alt="Wiring Parts" width="50%">
 
 ### Testing
-![Interior Upload](assets/IMG_9709.HEIC)
+<img src="assets/IMG_9709.HEIC" alt="Interior Upload" width="50%">
 [Initial Test Video](assets/initial_test.mov)
 
 ---
